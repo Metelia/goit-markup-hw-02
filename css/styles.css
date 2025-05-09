@@ -19,12 +19,31 @@ body{
   color: #2e2f42;
 }
 
-.nav-link{
-  color: #2e2f42;
+.nav-linkone{
+  color: #404bbf ;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+.nav-linktwo{
+    color: #404bbf ;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  }
+
+  .nav-linkthree{
+    color: #2e2f42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  }
+
+
+
+
+
 
 .contact-link{
     color: #434455;
