@@ -19,32 +19,27 @@ body{
   color: #2e2f42;
 }
 
-.nav-linkone{
-  color: #404bbf ;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 
-.nav-linktwo{
-    color: #404bbf ;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-  }
-
-  .nav-linkthree{
+.nav-link {
     color: #2e2f42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
   }
-
-
-
-
+  
+  .nav-link:hover,
+  .nav-link:focus {
+    color: #404bbf;
+  }
+  
+  .nav-link.current {
+    color: #404bbf;
+  }
+  
 
 
 .contact-link{
+    font-style: normal;
     color: #434455;
 }
