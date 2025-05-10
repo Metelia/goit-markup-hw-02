@@ -35,10 +35,16 @@ body{
   
 
 
-.contact-link{
+  .address-link {
+    color: #435548; 
+    text-decoration: none; 
     font-style: normal;
-    color: #434455;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-    
+    letter-spacing: 0.02em;  
+   
+}
+
+.address-link :hover,
+.address-link :focus {
+    color: #404bbf; 
 }
