@@ -98,3 +98,29 @@ body{
   font-size: 16px;
   letter-spacing: 0.02em ;
 }
+
+
+.final {
+  background-color: #2e2f42;
+}
+
+
+.final-text{
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.final-span{
+  color: #f4f4fd;
+}
+
+.final-decription{
+  line-height: 1.5;
+  color:#F4F4FD;
+  letter-spacing: 0.02em;
+}
