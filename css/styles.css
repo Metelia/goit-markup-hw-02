@@ -47,7 +47,7 @@ body{
   .address-link a:focus {
     color: #404bbf;  
   }
-  
+
   .business {
     background-color: #2e2f42;
     font-size: 56px;
@@ -83,4 +83,12 @@ body{
   color: #ffffff; 
   outline: none; 
   cursor: pointer;
+}
+
+.team-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
