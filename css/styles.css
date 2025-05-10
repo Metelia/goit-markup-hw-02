@@ -36,10 +36,11 @@ body{
 
   .address-link a {
     color: #435548;  
-    text-decoration: none; 
-    font-style: normal;
+    text-decoration: none;
+    font-style: normal ;
     line-height: 1.5;
     letter-spacing: 0.02em;  
+    
   }
   
   .address-link a:hover,
@@ -47,14 +48,18 @@ body{
     color: #404bbf;  
   }
   
-.business{
-  background-color:#2e2f42 ;
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #ffffff 
-}
+  .business {
+    background-color: #2e2f42;
+    text-align: center;
+  }
+  
+  .main-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
+  
 
 .button{
   background-color: #4D5AE5;
