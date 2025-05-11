@@ -46,8 +46,8 @@ body{
 
 
   
-  .address-link a:hover,
-  .address-link a:focus {
+  .address-link :hover,
+  .address-link :focus {
     color: #404bbf;  
   }
 
