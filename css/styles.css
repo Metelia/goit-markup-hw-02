@@ -145,18 +145,11 @@ body{
 }
 
 .team-description {
-  line-height: 1.5;
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
-
-
-
-
-
-
 
 
 
