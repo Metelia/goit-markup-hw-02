@@ -35,21 +35,23 @@ body{
   
  
 
-  .address-link  {
-    color:#434455 ;  
-    text-decoration: none;
-    line-height: 1.5;
-    letter-spacing: 0.02em;  
-    font-style: normal;
-    
+  .address-link {
+    font-style: normal; 
   }
-
-
   
-  .address-link a:hover,
-  .address-link a:focus {
-    color: #404bbf;  
+  .contact-link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
   }
+  
+  .contact-link:hover,
+  .contact-link:focus {
+    color: #404bbf;
+  }
+  
 
   .business {
     background-color: #2e2f42;
