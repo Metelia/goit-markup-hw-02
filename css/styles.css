@@ -33,16 +33,17 @@ body{
     color: #404bbf;
   }
   
+  .address-link {
+    font-style: normal;
+  }
 
   .address-link a {
     color:#434455 ;  
     text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.02em;  
-    font-style: normal;
     
   }
-
 
 
   
